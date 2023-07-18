@@ -377,8 +377,8 @@ button{
 
 .social__links a {
   display: inline-block;
-  color: #000; /* Set your desired color */
-  font-size: 20px; /* Set your desired font size */
+  color: #000;
+  font-size: 20px; 
 }
 
 .social__links a i {
