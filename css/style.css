@@ -368,6 +368,25 @@ button{
   justify-content: space-between;
 }
 
+.social__links {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.social__links a {
+  display: inline-block;
+  color: #000; /* Set your desired color */
+  font-size: 20px; /* Set your desired font size */
+}
+
+.social__links a i {
+  vertical-align: middle;
+}
+
+
+
 .social__links a {
   display: inline-flex;
   justify-content: center;
